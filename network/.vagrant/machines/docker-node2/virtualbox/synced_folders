@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/workspace/all/docker_demo/network","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/labs":{"guestpath":"/home/vagrant/labs","hostpath":"C:/workspace/all/docker_demo/network/labs","disabled":false,"__vagrantfile":true}}}
